@@ -12,6 +12,7 @@ Lista de estudos prioritários:
 4 - Geolocalização.
 
 
-Estudos Futuros:
+
+#Estudos Futuros:
 
 Gamificacao, Cloud, Cognitividade, Indicação, Matching, Gamificação, Google Maps, WhatsApp, Facebook, Pontuação.
